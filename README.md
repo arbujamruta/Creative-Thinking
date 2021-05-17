@@ -1,4 +1,3 @@
 # Creative-Thinking
 
-  
- 'testing commands'
+Creative Thinking is neccessary.
